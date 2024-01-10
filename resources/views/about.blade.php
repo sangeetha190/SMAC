@@ -65,7 +65,7 @@
                                     Trusted Organic <br class="d-none d-md-block" />
                                     Herbal Cosmetics
                                 </h1>
-                               
+
                             </div>
                             <p>
                             Welcome to SMAC, your trusted source for premium herbal cosmetics and natural beauty products. We're more than just an online store; we're your partners on the journey to healthier, more radiant skin.
@@ -114,7 +114,7 @@ We take quality seriously. Every product in our collection is carefully chosen f
                             </div>
                             <div class="ltn__feature-info">
                                 <p>
-                                We source only the finest botanical ingredients to create our herbal cosmetics. You can trust that every product you choose is packed with the pure goodness of nature, free from harmful chemicals. 
+                                We source only the finest botanical ingredients to create our herbal cosmetics. You can trust that every product you choose is packed with the pure goodness of nature, free from harmful chemicals.
                                 </p>
                             </div>
                         </div>
@@ -146,7 +146,7 @@ We take quality seriously. Every product in our collection is carefully chosen f
                             </div>
                             <div class="ltn__feature-info">
                                 <p>
-                                Your satisfaction is at the heart of everything we do. We're not just a retailer; we're your skincare partner. Our customer-centric approach means you'll always receive the best in terms of product quality. 
+                                Your satisfaction is at the heart of everything we do. We're not just a retailer; we're your skincare partner. Our customer-centric approach means you'll always receive the best in terms of product quality.
                                 </p>
                             </div>
                         </div>
@@ -156,7 +156,7 @@ We take quality seriously. Every product in our collection is carefully chosen f
         </div>
         <!-- FEATURE AREA END -->
 
-       
+
 
         <!-- CALL TO ACTION START (call-to-action-5) -->
         <div class="call-to-action-area call-to-action-5 bg-image bg-overlay-theme-90 pt-40 pb-25 d-none"
@@ -261,7 +261,7 @@ We take quality seriously. Every product in our collection is carefully chosen f
                             </div>
                             <div class="ltn__testimoni-info">
                                 <p>
-                                "I'm amazed by the results! Your herbal cosmetics have transformed my skin. It feels healthier and looks more radiant. 
+                                "I'm amazed by the results! Your herbal cosmetics have transformed my skin. It feels healthier and looks more radiant.
                                 </p>
                                 <h4>Mary L.</h4>
                                 <h6>Founder</h6>
