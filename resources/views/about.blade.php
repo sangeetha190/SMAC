@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html class="no-js" lang="zxx">
+
 <head>
     <meta charset="utf-8" />
+
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>SMAC | About</title>
     <meta name="robots" content="noindex, follow" />
@@ -22,7 +24,7 @@
 
         <!-- BREADCRUMB AREA START -->
         <div class="ltn__breadcrumb-area ltn__breadcrumb-area-2 ltn__breadcrumb-color-white bg-overlay-theme-black-90 bg-image"
-            data-bg="{{asset('assets/user/img/bg/5.jpg')}}">
+            data-bg="{{ asset('assets/user/img/bg/5.jpg') }}">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -35,7 +37,7 @@
                             </div>
                             <div class="ltn__breadcrumb-list">
                                 <ul>
-                                    <li><a href="{{route('index')}}">Home</a></li>
+                                    <li><a href="{{ route('index') }}">Home</a></li>
                                     <li>About Us</li>
                                 </ul>
                             </div>
@@ -52,7 +54,7 @@
                 <div class="row">
                     <div class="col-lg-6 align-self-center">
                         <div class="about-us-img-wrap about-img-left">
-                            <img src="{{asset('assets/user/img/slider/about-img.jpg')}}" alt="About Us Image" />
+                            <img src="{{ asset('assets/user/img/slider/about-img.jpg') }}" alt="About Us Image" />
                         </div>
                     </div>
                     <div class="col-lg-6 align-self-center">
@@ -68,11 +70,16 @@
 
                             </div>
                             <p>
-                            Welcome to SMAC, your trusted source for premium herbal cosmetics and natural beauty products. We're more than just an online store; we're your partners on the journey to healthier, more radiant skin.
+                                Welcome to SMAC, your trusted source for premium herbal cosmetics and natural beauty
+                                products. We're more than just an online store; we're your partners on the journey to
+                                healthier, more radiant skin.
 
-our mission is to promote natural beauty through the power of herbal cosmetics. We believe in harnessing the incredible benefits of nature to enhance your skincare routine.
+                                our mission is to promote natural beauty through the power of herbal cosmetics. We
+                                believe in harnessing the incredible benefits of nature to enhance your skincare
+                                routine.
 
-We take quality seriously. Every product in our collection is carefully chosen for its purity and effectiveness. Rest assured, you're receiving the best of the best.
+                                We take quality seriously. Every product in our collection is carefully chosen for its
+                                purity and effectiveness. Rest assured, you're receiving the best of the best.
                             </p>
                             <div class="about-author-info d-flex">
                                 <div class="author-name-designation align-self-center">
@@ -80,7 +87,8 @@ We take quality seriously. Every product in our collection is carefully chosen f
                                     <small>/ Shop Director</small>
                                 </div>
                                 <div class="author-sign">
-                                    <img src="{{asset('assets/user/img/icons/icon-img/author-sign.png')}}" alt="#" />
+                                    <img src="{{ asset('assets/user/img/icons/icon-img/author-sign.png') }}"
+                                        alt="#" />
                                 </div>
                             </div>
                         </div>
@@ -108,13 +116,16 @@ We take quality seriously. Every product in our collection is carefully chosen f
                         <div class="ltn__feature-item ltn__feature-item-7">
                             <div class="ltn__feature-icon-title">
                                 <div class="ltn__feature-icon">
-                                    <span><img src="{{asset('assets/user/img/icons/icon-img/21.png')}}" alt="#" /></span>
+                                    <span><img src="{{ asset('assets/user/img/icons/icon-img/21.png') }}"
+                                            alt="#" /></span>
                                 </div>
                                 <h3><a href="">Natural Elegance:</a></h3>
                             </div>
                             <div class="ltn__feature-info">
                                 <p>
-                                We source only the finest botanical ingredients to create our herbal cosmetics. You can trust that every product you choose is packed with the pure goodness of nature, free from harmful chemicals.
+                                    We source only the finest botanical ingredients to create our herbal cosmetics. You
+                                    can trust that every product you choose is packed with the pure goodness of nature,
+                                    free from harmful chemicals.
                                 </p>
                             </div>
                         </div>
@@ -123,13 +134,16 @@ We take quality seriously. Every product in our collection is carefully chosen f
                         <div class="ltn__feature-item ltn__feature-item-7">
                             <div class="ltn__feature-icon-title">
                                 <div class="ltn__feature-icon">
-                                    <span><img src="{{asset('assets/user/img/icons/icon-img/22.png')}}" alt="#" /></span>
+                                    <span><img src="{{ asset('assets/user/img/icons/icon-img/22.png') }}"
+                                            alt="#" /></span>
                                 </div>
                                 <h3><a href="">Handcrafted Excellence:</a></h3>
                             </div>
                             <div class="ltn__feature-info">
                                 <p>
-                                Each product in our collection is handmade with precision and care. Our dedication to quality shines through in every jar and bottle, ensuring you receive the highest level of excellence in herbal skincare.
+                                    Each product in our collection is handmade with precision and care. Our dedication
+                                    to quality shines through in every jar and bottle, ensuring you receive the highest
+                                    level of excellence in herbal skincare.
                                 </p>
                             </div>
                         </div>
@@ -138,7 +152,8 @@ We take quality seriously. Every product in our collection is carefully chosen f
                         <div class="ltn__feature-item ltn__feature-item-7">
                             <div class="ltn__feature-icon-title">
                                 <div class="ltn__feature-icon">
-                                    <span><img src="{{asset('assets/user/img/icons/icon-img/23.png')}}" alt="#" /></span>
+                                    <span><img src="{{ asset('assets/user/img/icons/icon-img/23.png') }}"
+                                            alt="#" /></span>
                                 </div>
                                 <h3>
                                     <a href="">Customer-Centric Approach:</a>
@@ -146,7 +161,9 @@ We take quality seriously. Every product in our collection is carefully chosen f
                             </div>
                             <div class="ltn__feature-info">
                                 <p>
-                                Your satisfaction is at the heart of everything we do. We're not just a retailer; we're your skincare partner. Our customer-centric approach means you'll always receive the best in terms of product quality.
+                                    Your satisfaction is at the heart of everything we do. We're not just a retailer;
+                                    we're your skincare partner. Our customer-centric approach means you'll always
+                                    receive the best in terms of product quality.
                                 </p>
                             </div>
                         </div>
@@ -160,7 +177,7 @@ We take quality seriously. Every product in our collection is carefully chosen f
 
         <!-- CALL TO ACTION START (call-to-action-5) -->
         <div class="call-to-action-area call-to-action-5 bg-image bg-overlay-theme-90 pt-40 pb-25 d-none"
-            data-bg="{{asset('assets/user/img/bg/13.jpg')}}">
+            data-bg="{{ asset('assets/user/img/bg/13.jpg') }}">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -227,7 +244,7 @@ We take quality seriously. Every product in our collection is carefully chosen f
                     </div>
                     <div class="col-lg-6 align-self-center">
                         <div class="ltn__video-bg-img ltn__video-popup-height-500 bg-overlay-black-50-- bg-image ml-30"
-                            data-bg="{{asset('assets/user/img/others/5.jpg')}}">
+                            data-bg="{{ asset('assets/user/img/others/5.jpg') }}">
                             <a class="ltn__video-icon-2 ltn__video-icon-2-border---"
                                 href="https://www.youtube.com/embed/eWUxqVFBq74?autoplay=1&amp;showinfo=0"
                                 data-rel="lightcase:myCollection">
@@ -257,11 +274,12 @@ We take quality seriously. Every product in our collection is carefully chosen f
                     <div class="col-lg-12">
                         <div class="ltn__testimonial-item ltn__testimonial-item-4">
                             <div class="ltn__testimoni-img">
-                                <img src="{{asset('assets/user/img/testimonial/6.jpg')}}" alt="#" />
+                                <img src="{{ asset('assets/user/img/testimonial/6.jpg') }}" alt="#" />
                             </div>
                             <div class="ltn__testimoni-info">
                                 <p>
-                                "I'm amazed by the results! Your herbal cosmetics have transformed my skin. It feels healthier and looks more radiant.
+                                    "I'm amazed by the results! Your herbal cosmetics have transformed my skin. It feels
+                                    healthier and looks more radiant.
                                 </p>
                                 <h4>Mary L.</h4>
                                 <h6>Founder</h6>
@@ -274,7 +292,7 @@ We take quality seriously. Every product in our collection is carefully chosen f
                     <div class="col-lg-12">
                         <div class="ltn__testimonial-item ltn__testimonial-item-4">
                             <div class="ltn__testimoni-img">
-                                <img src="{{asset('assets/user/img/testimonial/7.jpg')}}" alt="#" />
+                                <img src="{{ asset('assets/user/img/testimonial/7.jpg') }}" alt="#" />
                             </div>
                             <div class="ltn__testimoni-info">
                                 <p>
@@ -283,7 +301,7 @@ We take quality seriously. Every product in our collection is carefully chosen f
                                     aliqua.
                                 </p>
                                 <h4>
-David S.</h4>
+                                    David S.</h4>
                                 <h6>Founder</h6>
                             </div>
                             <div class="ltn__testimoni-bg-icon">
@@ -294,7 +312,7 @@ David S.</h4>
                     <div class="col-lg-12">
                         <div class="ltn__testimonial-item ltn__testimonial-item-4">
                             <div class="ltn__testimoni-img">
-                                <img src="{{asset('assets/user/img/testimonial/1.jpg')}}" alt="#" />
+                                <img src="{{ asset('assets/user/img/testimonial/1.jpg') }}" alt="#" />
                             </div>
                             <div class="ltn__testimoni-info">
                                 <p>
@@ -313,7 +331,7 @@ David S.</h4>
                     <div class="col-lg-12">
                         <div class="ltn__testimonial-item ltn__testimonial-item-4">
                             <div class="ltn__testimoni-img">
-                                <img src="{{asset('assets/user/img/testimonial/2.jpg')}}" alt="#" />
+                                <img src="{{ asset('assets/user/img/testimonial/2.jpg') }}" alt="#" />
                             </div>
                             <div class="ltn__testimoni-info">
                                 <p>
@@ -332,7 +350,7 @@ David S.</h4>
                     <div class="col-lg-12">
                         <div class="ltn__testimonial-item ltn__testimonial-item-4">
                             <div class="ltn__testimoni-img">
-                                <img src="{{asset('assets/user/img/testimonial/5.jpg')}}" alt="#" />
+                                <img src="{{ asset('assets/user/img/testimonial/5.jpg') }}" alt="#" />
                             </div>
                             <div class="ltn__testimoni-info">
                                 <p>
@@ -490,7 +508,7 @@ David S.</h4>
 
         <!-- NEWSLETTER AREA START -->
         <div class="ltn__newsletter-area section-bg-1 bg-overlay-black-90 pt-110 pb-90 bg-image"
-            data-bg="{{asset('assets/user/img/bg/2.jpg')}}">
+            data-bg="{{ asset('assets/user/img/bg/2.jpg') }}">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 offset-lg-2">
@@ -718,7 +736,8 @@ David S.</h4>
                                 <div class="col-xl-3 col-md-6 col-12">
                                     <div class="ltn__feature-item ltn__feature-item-8">
                                         <div class="ltn__feature-icon">
-                                            <img src="{{asset('assets/user/img/icons/icon-img/11.png')}}" alt="#" />
+                                            <img src="{{ asset('assets/user/img/icons/icon-img/11.png') }}"
+                                                alt="#" />
                                         </div>
                                         <div class="ltn__feature-info">
                                             <h4>Curated Products</h4>
@@ -731,7 +750,8 @@ David S.</h4>
                                 <div class="col-xl-3 col-md-6 col-12">
                                     <div class="ltn__feature-item ltn__feature-item-8">
                                         <div class="ltn__feature-icon">
-                                            <img src="{{asset('assets/user/img/icons/icon-img/12.png')}}" alt="#" />
+                                            <img src="{{ asset('assets/user/img/icons/icon-img/12.png') }}"
+                                                alt="#" />
                                         </div>
                                         <div class="ltn__feature-info">
                                             <h4>Handmade</h4>
@@ -744,7 +764,8 @@ David S.</h4>
                                 <div class="col-xl-3 col-md-6 col-12">
                                     <div class="ltn__feature-item ltn__feature-item-8">
                                         <div class="ltn__feature-icon">
-                                            <img src="{{asset('assets/user/img/icons/icon-img/13.png')}}" alt="#" />
+                                            <img src="{{ asset('assets/user/img/icons/icon-img/13.png') }}"
+                                                alt="#" />
                                         </div>
                                         <div class="ltn__feature-info">
                                             <h4>Natural Food</h4>
@@ -757,7 +778,8 @@ David S.</h4>
                                 <div class="col-xl-3 col-md-6 col-12">
                                     <div class="ltn__feature-item ltn__feature-item-8">
                                         <div class="ltn__feature-icon">
-                                            <img src="{{asset('assets/user/img/icons/icon-img/14.png')}}" alt="#" />
+                                            <img src="{{ asset('assets/user/img/icons/icon-img/14.png') }}"
+                                                alt="#" />
                                         </div>
                                         <div class="ltn__feature-info">
                                             <h4>Free home delivery</h4>
